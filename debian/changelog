@@ -1,0 +1,11 @@
+ubuntudde-dde-extras (1.0.1) focal; urgency=high
+
+  * Added ubuntudde-dde as Dependency
+
+ -- Arun Kumar Pariyar <expertaruncorp@gmail.com>  Fri, 10 Apr 2020 13:10:32 +0545
+
+ubuntudde-dde-extras (1.0.0) focal; urgency=high
+
+  * Initial Release
+
+ -- Arun Kumar Pariyar <expertaruncorp@gmail.com>  Fri, 10 Apr 2020 01:55:05 +0545

@@ -1,0 +1,16 @@
+Source: ubuntudde-dde-extras
+Section: metapackages
+Priority: extra
+Maintainer: Arun Kumar Pariyar <expertaruncorp@gmail.com>
+Build-Depends: debhelper (>=8.0.0)
+Standards-Version: 3.9.3
+Homepage: https://ubuntudde.com
+
+Package: ubuntudde-dde-extras
+Architecture: all
+Depends: ${misc:Depends}, ubuntudde-dde
+Recommends: deepin-terminal, deepin-screenshot, dde-calendar, deepin-notifications, deepin-system-monitor
+Description: Deepin Desktop Environment Extras for Ubuntu DDE
+ This is a meta package depends DDE Extras
+ .
+ You can safety remove it after installed.
