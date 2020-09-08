@@ -1,15 +1,24 @@
 Source: ubuntudde-dde-extras
 Section: metapackages
-Priority: extra
+Priority: optional
 Maintainer: Arun Kumar Pariyar <expertaruncorp@gmail.com>
-Build-Depends: debhelper (>=8.0.0)
-Standards-Version: 3.9.3
+Build-Depends: debhelper-compat (=13)
+Standards-Version: 4.5.0
 Homepage: https://ubuntudde.com
 
 Package: ubuntudde-dde-extras
 Architecture: all
-Depends: ${misc:Depends}, ubuntudde-dde
-Recommends: deepin-terminal, deepin-screenshot, dde-calendar, deepin-notifications, deepin-system-monitor
+Depends: ubuntudde-dde, ${misc:Depends}
+Recommends: dde-calendar,
+            dde-device-formatter,
+            deepin-image-viewer,
+            deepin-movie-reborn,
+            deepin-music,
+            deepin-screen-recorder,
+            deepin-screenshot,
+            deepin-system-monitor,
+            deepin-terminal,
+            deepin-turbo
 Description: Deepin Desktop Environment Extras for Ubuntu DDE
  This is a meta package depends DDE Extras
  .

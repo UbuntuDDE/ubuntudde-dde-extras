@@ -1,3 +1,15 @@
+ubuntudde-dde-extras (2.0.1-1) groovy; urgency=medium
+
+  * Add deepin-movie-reborn,deepin-screen-recorder, deepin-music, dde-device-formatter, deepin-turbo,deepin-image-viewer.
+
+ -- Arun Kumar Pariyar <expertaruncorp@gmail.com>  Tue, 08 Sep 2020 20:16:05 +0545
+
+ubuntudde-dde-extras (2.0.0-1) groovy; urgency=medium
+
+  * Added deepin-movie-reborn, deepin-music, deepin-screen-recorder.
+
+ -- Arun Kumar Pariyar <expertaruncorp@gmail.com>  Tue, 04 Aug 2020 20:39:12 +0545
+
 ubuntudde-dde-extras (1.0.1) focal; urgency=high
 
   * Added ubuntudde-dde as Dependency
