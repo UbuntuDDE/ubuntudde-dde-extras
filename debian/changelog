@@ -1,3 +1,9 @@
+ubuntudde-dde-extras (2.0.2-1) groovy; urgency=medium
+
+  * Move dde-device-formatter to ubuntudde-dde.
+
+ -- Arun Kumar Pariyar <expertaruncorp@gmail.com>  Thu, 10 Sep 2020 01:17:55 +0545
+
 ubuntudde-dde-extras (2.0.1-1) groovy; urgency=medium
 
   * Add deepin-movie-reborn,deepin-screen-recorder, deepin-music, dde-device-formatter, deepin-turbo,deepin-image-viewer.

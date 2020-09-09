@@ -10,7 +10,8 @@ Package: ubuntudde-dde-extras
 Architecture: all
 Depends: ubuntudde-dde, ${misc:Depends}
 Recommends: dde-calendar,
-            dde-device-formatter,
+            deepin-boot-maker,
+            deepin-clone,
             deepin-image-viewer,
             deepin-movie-reborn,
             deepin-music,
