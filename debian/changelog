@@ -1,3 +1,9 @@
+ubuntudde-dde-extras (2.0.3-1) groovy; urgency=medium
+
+  * Add deepin-calculator, deepin-albumn and deepin-editor.
+
+ -- Arun Kumar Pariyar <expertaruncorp@gmail.com>  Sat, 03 Oct 2020 19:42:58 +0545
+
 ubuntudde-dde-extras (2.0.2-1) groovy; urgency=medium
 
   * Move dde-device-formatter to ubuntudde-dde.
