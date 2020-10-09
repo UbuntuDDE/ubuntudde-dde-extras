@@ -1,3 +1,16 @@
+ubuntudde-dde-extras (2.0.5-1) hirsute; urgency=medium
+
+  * Add: deepin-deb-installer, dde-store.
+
+ -- Arun Kumar Pariyar <openarungeek@gmail.com>  Sun, 25 Apr 2021 01:15:34 +0545
+
+ubuntudde-dde-extras (2.0.4-1) groovy; urgency=medium
+
+  * fix: typo for deepin-album and deepin-movie.
+  * Add: deepin-font-manager, deepin-devicemanager, deepin-compressor and deepin-reader.
+
+ -- Arun Kumar Pariyar <expertaruncorp@gmail.com>  Sat, 24 Oct 2020 01:21:16 +0545
+
 ubuntudde-dde-extras (2.0.3-1) groovy; urgency=medium
 
   * Add deepin-calculator, deepin-albumn and deepin-editor.

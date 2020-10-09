@@ -2,27 +2,36 @@ Source: ubuntudde-dde-extras
 Section: metapackages
 Priority: optional
 Maintainer: Arun Kumar Pariyar <expertaruncorp@gmail.com>
-Build-Depends: debhelper-compat (=13)
+Build-Depends:
+ debhelper-compat (=13),
 Standards-Version: 4.5.0
 Homepage: https://ubuntudde.com
 
 Package: ubuntudde-dde-extras
 Architecture: all
-Depends: ubuntudde-dde, ${misc:Depends}
-Recommends: dde-calendar,
-            deepin-calculator,
-            deepin-boot-maker,
-            deepin-clone,
-            deepin-albumn,
-            deepin-image-viewer,
-            deepin-movie-reborn,
-            deepin-music,
-            deepin-editor,
-            deepin-screen-recorder,
-            deepin-screenshot,
-            deepin-system-monitor,
-            deepin-terminal,
-            deepin-turbo
+Depends:
+ ubuntudde-dde,
+ ${misc:Depends},
+Recommends:
+ dde-calendar,
+ dde-store,
+ deepin-album,
+ deepin-boot-maker,
+ deepin-calculator,
+ deepin-clone,
+ deepin-compressor,
+ deepin-deb-installer,
+ deepin-devicemanager,
+ deepin-editor,
+ deepin-font-manager,
+ deepin-image-viewer,
+ deepin-movie,
+ deepin-music,
+ deepin-reader,
+ deepin-screen-recorder,
+ deepin-system-monitor,
+ deepin-terminal,
+ deepin-turbo,
 Description: Deepin Desktop Environment Extras for Ubuntu DDE
  This is a meta package depends DDE Extras
  .

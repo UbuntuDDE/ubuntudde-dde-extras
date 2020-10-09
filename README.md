@@ -1,7 +1,7 @@
 # ubuntudde-dde-extras
 **Deepin Desktop Environment Extras for Ubuntu DDE**
 
-This is a meta package depends DDE Extras.
+This is a meta package for UbuntuDDE Extras.
 
 The package installs the following packages:
 
