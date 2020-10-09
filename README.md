@@ -3,7 +3,7 @@
 
 This is a meta package depends DDE Extras.
 
-**The package installs the following packages:**
+The package installs the following packages:
 
 * dde-calendar
 * deepin-calculator
