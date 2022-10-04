@@ -1,3 +1,27 @@
+ubuntudde-dde-extras (2.0.8ubuntu1) jammy; urgency=medium
+
+  * Upload to jammy.
+
+ -- Arun Kumar Pariyar <openarungeek@gmail.com>  Tue, 02 Aug 2022 16:32:04 +0545
+
+ubuntudde-dde-extras (2.0.8) impish; urgency=medium
+
+  * Add deepin-draw and deepin-picker.
+
+ -- Arun Kumar Pariyar <openarungeek@gmail.com>  Fri, 03 Dec 2021 15:36:03 +0545
+
+ubuntudde-dde-extras (2.0.7) impish; urgency=medium
+
+  * Drop devicemanager for now.
+
+ -- Arun Kumar Pariyar <openarungeek@gmail.com>  Sat, 13 Nov 2021 23:23:16 +0545
+
+ubuntudde-dde-extras (2.0.6) impish; urgency=medium
+
+  * Move some packages from ubuntudde-dde to dde-extras
+
+ -- Arun Kumar Pariyar <openarungeek@gmail.com>  Fri, 01 Oct 2021 22:29:31 +0545
+
 ubuntudde-dde-extras (2.0.5-1) hirsute; urgency=medium
 
   * Add: deepin-deb-installer, dde-store.
